@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Zombie Rush. A Candy Crush clone.<br>I'm looking to train new LLMs for the private sector.<br>I'm currently learning DevOps and Azure.<br>Fun Fact: I'm hilarious in real life.
+I'm currently working on Zombie Rush. A Candy Crush clone.<br>I'm looking to train new LLMs for the private sector.<br>I'm currently learning DevOps and Azure.<br>
 
 
 ## 🌐 Socials:
